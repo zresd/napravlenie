@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /policy.html
+Disallow: /terms.html
+Sitemap: https://your-site.com/sitemap.xml
